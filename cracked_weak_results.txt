@@ -1,0 +1,8 @@
+?:123456
+?:password
+?:qwerty
+?:letmein
+?:welcome
+?:iloveyou
+
+6 password hashes cracked, 0 left
